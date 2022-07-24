@@ -319,8 +319,8 @@ h3.my-profession{
     position: absolute;
     height: 80px;
     width: 80px;
-    right: 20px;
-    bottom: -40px;
+    right: 5px;
+    bottom: 10px;
     border-bottom: 10px solid var(--skin-color);
     border-right: 10px solid var(--skin-color);
 }
@@ -330,14 +330,14 @@ h3.my-profession{
     position: absolute;
     height: 80px;
     width: 80px;
-    left: -20px;
+    left: 7px;
     top: -40px;
     border-top: 10px solid var(--skin-color);
     border-left: 10px solid var(--skin-color);
 }
 
 .home .home-img img{
-    height: 400px;
+    height: 450px;
     margin: auto;
     border-radius: 15px;
 }
